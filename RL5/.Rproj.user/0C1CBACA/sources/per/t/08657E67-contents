@@ -1,0 +1,12 @@
+---
+title: "RLPackagePlans"
+author: "BYDavis"
+date: "2023-07-12"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+In addition to the workflows and steps from the RLMeDNA, add functions to check that input species lists are properly formatted/don't have special characters and are in the correct format for name checking
